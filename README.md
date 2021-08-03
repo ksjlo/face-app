@@ -1,2 +1,2 @@
-# Food-Ordering-app
-Order foods from different restaurants at a go.
+# Facial recognition app
+Small program with better sequrity of facial detection app
